@@ -10,5 +10,6 @@ body{
     align-items: center;
     justify-content: center;
     background: #1DA1F2;
+    flex-direction: column;
     color: #fff;
 }
